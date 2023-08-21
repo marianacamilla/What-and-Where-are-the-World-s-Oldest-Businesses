@@ -53,7 +53,7 @@ Após observar a empresa mais antiga da Alemanha, foi feita a seguinte questão 
 Com o objetivo de responder essa questão, este projeto foi criado, a BusinessFinancing.co.uk pesquisou a empresa mais antiga que ainda está em funcionamento em quase todos os países e compilou os resultados em um conjunto de dados. 
 
 
-Quais técnicas e ferramentas utilizadas?
+## Quais técnicas e ferramentas utilizadas?
 Para realização deste projeto, utilizei a linguagem Python em um Jupyter Notebook, com a biblioteca Pandas. Utilizei ténicas de: Manipulão de Dados e Estatística.
 
 
